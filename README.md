@@ -1,6 +1,7 @@
 # gulp-sassc-shell
 
 > If your SASS compiles slow, then try this plugin, compile SASS to CSS faster then ever before using libsass from Gulp using shell.
+For compiling SassC on you platform follow this guide: https://github.com/sass/sassc .
 
 ## Getting Started
 This plugin requires Gulp `~3.9.1`
