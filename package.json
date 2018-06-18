@@ -1,0 +1,22 @@
+{
+  "name": "gulp-sassc-shell",
+  "version": "0.0.1",
+  "description": "Compile SASS to CSS faster than an other tool using LibSASS's sassc binary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Gyorgy Sagi",
+    "email": "gyorgy.sagi@w5labs.com",
+    "url": "https://github.com/iamdue"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "child_process": "^1.0.2",
+    "gulp": "^3.9.1",
+    "which": "^1.0.5",
+    "lodash.clonedeep": "^4.5.0"
+  }
+}
