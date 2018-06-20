@@ -1,8 +1,9 @@
 {
   "name": "gulp-sassc-shell",
-  "version": "0.0.1",
-  "description": "Compile SASS to CSS faster than an other tool using LibSASS's sassc binary.",
+  "version": "0.0.4",
+  "description": "Compile SASS to CSS faster than any other tool using LibSASS's sassc binary from gulp.",
   "main": "index.js",
+  "keywords": ["sassc", "sass", "compile", "libsass", "gulp"],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
